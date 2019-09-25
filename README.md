@@ -12,6 +12,8 @@ ie_pandas is currently version **0.1.dev0**. It was developed, tested and is run
 
 The License is a general [MIT](https://choosealicense.com/licenses/mit/) license. Please see the **LICENSE.rtf** file in the Python_Project Folder as an additional reference.
 
+This work is a joint project by Alejandro Campos, Carolin Kroeger, Felix Krueger and Tomas Pereira during the IE Master in Big Data and Business Analytics.
+
 ## Installation ##
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ie_pandas. 
